@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RK9460
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Bash Scripting 
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at my email address: rahulkala9460@gmail.com
 
